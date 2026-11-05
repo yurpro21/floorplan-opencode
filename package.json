@@ -1,0 +1,11 @@
+{
+  "name": "floorplan-opencode",
+  "version": "0.6.3-opencode.1",
+  "private": true,
+  "description": "Floorplan, ported to opencode. No dependencies: this file only gives `npm test` a home.",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "test": "node --test"
+  }
+}
